@@ -22,7 +22,7 @@ This project is a real-time drawing app using OpenCV where you can draw using a 
 ### Steps:
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/arushi-midha/air-canvas
+    git clone https://github.com/arushi-midha/air-canvas.git
     cd air-canvas
     ```
 
